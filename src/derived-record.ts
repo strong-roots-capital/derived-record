@@ -5,8 +5,18 @@
 
 
 /**
- * TODO: document
+ * An atomic unit of time-series data.
  */
-export default function derivedRecord() {
-    // TODO: implement
+interface DerivedRecord {
+    /**
+     * Time that the current Record began, in units of milliseconds
+     * elapsed since January 1, 1970.
+     */
+    Time: number,
+    /**
+     * Closing value of current Record.
+     */
+    Close: number,
 }
+
+export default DerivedRecord
