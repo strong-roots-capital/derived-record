@@ -1,6 +1,6 @@
 {
   "name": "@strong-roots-capital/derived-record",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Interface for data derived from time-series record data",
   "main": "dist/derived-record.js",
   "types": "dist/derived-record.d.ts",
