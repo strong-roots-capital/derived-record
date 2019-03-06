@@ -11,7 +11,7 @@ npm install @strong-roots-capital/derived-record
 ## Use
 
 ``` typescript
-import derivedRecord from '@strong-roots-capital/derived-record'
+import DerivedRecord from '@strong-roots-capital/derived-record'
 ```
 
 The `DerivedRecord` interface is defined as
