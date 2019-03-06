@@ -16,7 +16,7 @@ interface DerivedRecord {
     /**
      * Closing value of current Record.
      */
-    Close: number,
+    Close: number
 }
 
 export default DerivedRecord
